@@ -4,7 +4,8 @@ const url = require('url');
 const slugify = require('slugify');
 const replaceTemplate = require('./modules/replaceTemplate');
 
-/////////////////////////////////
+// 
+////////////////////////////////
 // FILES
 
 // Blocking, synchronous way
